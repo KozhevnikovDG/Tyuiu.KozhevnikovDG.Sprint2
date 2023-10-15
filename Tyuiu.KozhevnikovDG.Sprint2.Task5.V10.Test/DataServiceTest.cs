@@ -17,7 +17,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint2.Task5.V10.Test
             int m = 12;
             int n = 15;
             string res = ds.FindDateOfPreviousDay(g, m, n);
-            string wait = ("14.12.2023");
+            string wait = ("2023.12.14");
             Assert.AreEqual(wait, res);
 
 

@@ -55,7 +55,7 @@ namespace Tyuiu.KozhevnikovDG.Sprint2.Task5.V10.Lib
                     break;
                     
                     
-            }    return $"{n}.{m}.{g}";
+            }    return $"{g}.{m}.{n}";
         }   
     }
 }
